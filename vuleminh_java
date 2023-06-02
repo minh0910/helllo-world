@@ -1,0 +1,8 @@
+public class Vu Le Minh
+{
+    public static void main(String[] args) 
+    {
+      System.out.println("Vu Le Minh hoc java");
+    }
+        
+}
